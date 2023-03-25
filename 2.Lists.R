@@ -13,13 +13,13 @@
 # 3. List slicing to get a part of it
 
 
-# 4. Filitering a list with logical values and condtions.
+# 4. Filtering a list with logical values and conditions.
 
 
 # 5. Lists with other lists and vectors as elements and accessing their elements.
 
 
-# 6. Creation of named lists and accessig them
+# 6. Creation of named lists and accessing them
 
 
 # 7. Deleting an element from a list
