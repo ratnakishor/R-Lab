@@ -19,13 +19,13 @@
 # Step 5: Filtering the Data frame.
 
 
-# Step 6: Use of str(), view(), edit(), head() and tail() functions.
+# Step 6: Use of str(), View(), edit(), head() and tail() functions.
 
 
 # Step 7: Display number of rows, columns or dimensions of a Data frame.
 
 
-# Step 8: Display or set row names and column names.
+# Step 8: Display and set row names and column names.
 
 
 # Conclusion
