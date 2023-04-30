@@ -10,6 +10,6 @@
 
 # Step 5: A * inverse(A) = ?. Justify your answer with an example.
 
-# Step 6: Find the eigen values and eigen vectors of the given matrix.
+# Step 6: Find the Eigen values and Eigen vectors of the given matrix.
 
 # Conclusion
